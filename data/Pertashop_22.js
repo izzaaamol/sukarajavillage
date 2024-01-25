@@ -1,0 +1,1 @@
+var json_Pertashop_22 = {"type":"FeatureCollection","name":"Pertashop_22","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","pertashop":"pertashop"},"geometry":{"type":"Point","coordinates":[101.525095039379636,-0.284645473029129]}}]}

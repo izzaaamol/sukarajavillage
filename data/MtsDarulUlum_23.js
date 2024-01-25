@@ -1,0 +1,1 @@
+var json_MtsDarulUlum_23 = {"type":"FeatureCollection","name":"MtsDarulUlum_23","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","mts":"mts darul ulum"},"geometry":{"type":"Point","coordinates":[101.530025582694378,-0.29160336843797]}}]}

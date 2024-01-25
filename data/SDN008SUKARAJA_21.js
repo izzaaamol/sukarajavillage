@@ -1,0 +1,1 @@
+var json_SDN008SUKARAJA_21 = {"type":"FeatureCollection","name":"SDN008SUKARAJA_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","sd":"SDN008"},"geometry":{"type":"Point","coordinates":[101.528172546260024,-0.288145971454383]}}]}
